@@ -1,0 +1,28 @@
+* {
+    /* removed embedded margin/padding */
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body {
+    background-color: #e8eddf;
+}
+.title {
+    margin: 50px 0px;
+    text-align: center;
+    color: #333533;
+}
+.container-recipes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.loading {
+    text-align: center;
+    margin: 50px 0px;
+}
+@media screen and (max-width: 1200px) {
+    .container-recipes {
+        flex-direction: column;
+    }
+}

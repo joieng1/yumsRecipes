@@ -1,0 +1,82 @@
+[
+    {
+        "link_name": "Error",
+        "name": "Error",
+        "image": "Error",
+        "description": "Error",
+        "instructions": ["Error"],
+        "ingredients": ["Error"]
+    },
+    {
+        "link_name": "lemonbars",
+        "name": "Lemon Bars",
+        "image": "https://preppykitchen.com/wp-content/uploads/2020/02/lemon-bars-blog-2a-1140x1271.jpg",
+        "description": "You'll love these bright and zingy lemon bars with a crisp shortbread crust and luscious lemon filling.",
+        "instructions": [
+            "Heat oven to 350F and line a 9x13 baking dish with parchment paper.",
+            "Whisk together 2 1/2 cups of flour (300g) with the powdered sugar and salt, then pour in the melted butter and mix until combined. You can also do this using a stand mixer with a paddle attachment. If you'd like a dash of vanilla can be added in with the butter at this step.",
+            "Sprinkle the dough into your lined pan and press down into a flat layer. Bake at 350F for about 20 minutes or until a light golden color.",
+            "While the crust is baking add the sugar to a food processor and add the zest of three lemons. Pulse until the zest is fully incorporated and sugar is a light yellow color. If you don't have a processor just mince the zest and mix with the sugar in a bag or bowl.",
+            "Add the sugar and remaining half cup of flour to a large bowl and mix well. You can sift together however and zesty sugar bits will need to get dumped out of the sifter as they might clog things up and not go through.",
+            "Pour in the lemon juice and add the eggs then mix very well until completely combined.",
+            "Pour the filling onto the warm crust then transfer to oven and bake for about 25 minutes, turning halfway through the bake. Remove from oven and allow to cool for an hour before chilling in the refrigerator for two hours.",
+            "Dust with powdered sugar and cut into bars using a clean, sharp, damp knife. Clean and re-wet the knife after each cut."
+        ],
+        "ingredients": [
+            "3 cups all-purpose flour 360g, divided 2 1/2 cups for crust and 1/2 cup for filling",
+            "2/3 cups powdered sugar 66g, for the shortbread, plus more for dusting",
+            "1/2 tsp salt",
+            "12 tbsp unsalted butter melted",
+            "3 tbsp lemon zest",
+            "3 cups sugar",
+            "8 eggs",
+            "1 cup lemon juice"
+        ]
+    },
+    {
+        "link_name": "poppyseedcake",
+        "name": "Poppy Seed Cake",
+        "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps35606_TH1115229D33B-6.jpg",
+        "description": "This moist cake is full of poppy seeds. The cream cheese frosting adds the final touch!",
+        "instructions": [
+            "In a small bowl, soak poppy seeds in milk for 30 minutes. Place egg whites in a large bowl; let stand at room temperature for 30 minutes.",
+            "In another large bowl, cream shortening and sugar until light and fluffy. Beat in vanilla. Combine flour and baking powder; add to creamed mixture alternately with poppy seed mixture, beating well after each addition. Beat egg whites until soft peaks form; fold into batter.",
+            "Pour into a greased 13x9-in. baking dish. Bake at 375° for 25-30 minutes or until a toothpick inserted in the center comes out clean. Cool on a wire rack.",
+            "For frosting, in a large bowl, beat the cream cheese, butter and vanilla until smooth. Gradually beat in confectioners' sugar. Spread over cake. Store in the refrigerator."
+        ],
+        "ingredients": [
+            "1/3 cup poppy seeds",
+            "1 cup 2% milk",
+            "4 egg whites",
+            "3/4 cup shortening",
+            "1-1/2 cups sugar",
+            "1 teaspoon vanilla extract",
+            "2 cups all-purpose flour",
+            "2 teaspoons baking powder"
+        ]
+    },
+    {
+        "link_name": "peachcobbler",
+        "name": "Peach Cobbler",
+        "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2014/08/Peach-Cobbler-13.jpg",
+        "description": "Have a few extra peaches left from the backyard? Try this amazing cobbler recipe.",
+        "instructions": [
+            "Add the sliced peaches, sugar and salt to a saucepan and stir to combine.",
+            "Cook on medium heat for just a few minutes, until the sugar is dissolved and helps to bring out juices from the peaches. Remove from heat and set aside.",
+            "Preheat oven to 350 degrees F. Slice butter into pieces and add to a 9x13 inch baking dish. Place the pan in the oven while it preheats, to allow the butter to melt. Once melted, remove the pan from the oven.",
+            "In a large bowl mix together the flour, sugar, baking powder, and salt. Stir in the milk, just until combined. Pour the mixture into the pan, over the melted butter and smooth it into an even layer.",
+            "Spoon the peaches and juice (or canned peaches, if using) over the batter. Sprinkle cinnamon generously over the top.",
+            "Bake at 350 degrees for about 38-40 minutes. Serve warm, with a scoop of ice cream, if desired."
+        ],
+        "ingredients": [
+            "5 peaches , peeled, cored and sliced (about 4 cups)",
+            "1/4 teaspoon salt",
+            "6 Tablespoons butter",
+            "1 cup all-purpose flour",
+            "1 cup granulated sugar",
+            "2 teaspoons baking powder",
+            "3/4 cup milk",
+            "ground cinnamon"
+        ]
+    }
+]
